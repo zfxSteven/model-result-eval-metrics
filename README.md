@@ -1,5 +1,5 @@
 # model-result-eval-metrics
-model result eval metrics
+模型输出结果的常用评价函数
 
 ## 使用方式
 ### 依赖
